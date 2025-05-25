@@ -91,6 +91,7 @@ npm run lint       # ESLint 9 flat config (src + tests)
 * **Jest 30 + ts-jest** – unit tests with jsdom environment
 * **ESLint 9 (flat)** – modern linting setup
 * **localStorage** – simple persistence layer
+Tested on Node v18.18.0 (LTS).
 
 ---
 
